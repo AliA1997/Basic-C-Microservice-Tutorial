@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Credit-rating-serviceGrpc.cs \
+obj\Debug\netcoreapp3.1/CreditRatingService.cs: Protos/credit-rating-service.proto

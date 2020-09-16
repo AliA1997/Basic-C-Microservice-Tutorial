@@ -1,0 +1,17 @@
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\CreditRatingClient.exe
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\CreditRatingClient.deps.json
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\CreditRatingClient.runtimeconfig.json
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\CreditRatingClient.runtimeconfig.dev.json
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\CreditRatingClient.dll
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\CreditRatingClient.pdb
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\obj\Debug\netcoreapp3.1\CreditRatingClient.csprojAssemblyReference.cache
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\obj\Debug\netcoreapp3.1\CreditRatingClient.AssemblyInfoInputs.cache
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\obj\Debug\netcoreapp3.1\CreditRatingClient.AssemblyInfo.cs
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\obj\Debug\netcoreapp3.1\CreditRatingClient.csproj.CopyComplete
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\obj\Debug\netcoreapp3.1\CreditRatingClient.dll
+C:\Users\devmt\projects\grpc-dotnet\CreditRatingClient\obj\Debug\netcoreapp3.1\CreditRatingClient.pdb
